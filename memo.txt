@@ -1,0 +1,2 @@
+virtualenv¡¢fabric ºÍ pip 
+virtualenv compare to buildout 
